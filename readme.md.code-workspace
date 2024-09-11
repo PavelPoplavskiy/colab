@@ -1,8 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "../NeuroStartUp"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../colab-second"
+        }
+    ]
 }
